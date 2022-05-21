@@ -116,8 +116,23 @@ p.myid{
     height: 2.71rem;
     line-height: 2.71rem;
 }
-.center{
+.center1{
     text-align: center;
+}
+.center2{
+    /*text-align: center;*/
+    margin-top: -290px;
+    margin-left: 290px;
+
+}
+.center3{
+    /*text-align: center;*/
+    margin-top: -290px;
+    margin-left: 1000px;
+
+}
+.my-intro{
+   margin-left: 200px;
 }
 .my-sort a{
     margin: 0 0.71rem;
