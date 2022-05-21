@@ -339,8 +339,8 @@
     position: relative;
 }
 .my-intro p{
-    padding: 2em 0em 0em;
-    text-indent: 15em;
+    padding: 1em 0 0em;
+    text-indent: 2em;
 }
 .my-intro p.links{
     padding: 0.2em 0 0em;
@@ -435,8 +435,8 @@ div.skill p{
 }
 #section4 .container .imgbox img{
     width: 360px;
-	height: 360px;
-	object-fit: cover;
+    height: 360px;
+    object-fit: cover;
     transition: all 0.3s ease;
 }
 
