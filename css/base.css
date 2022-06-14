@@ -117,8 +117,7 @@ p.myid{
     line-height: 2.71rem;
 }
 .center{
-float: left;
-padding-left: 20px;
+    text-align: center;
 }
 
 .my-sort a{
