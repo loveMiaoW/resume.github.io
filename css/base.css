@@ -120,13 +120,6 @@ p.myid{
 float: left;
 padding-left: 20px;
 }
-.ab{
-margin-left: 370px;
-overflow: hidden;
-width: 775px;
-justify-content: space-between;
-display: inline-flex;
-}
 
 .my-sort a{
     margin: 0 0.71rem;
